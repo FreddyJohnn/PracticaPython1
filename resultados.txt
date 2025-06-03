@@ -1,0 +1,9 @@
+Resultados de los estudiantes:
+
+Freddy: Calificaciones = [10.0, 11.0, 100.0, 50.0], Promedio = 42.75
+Andres: Calificaciones = [50.0, 60.0, 100.0], Promedio = 70.00
+Lalo: Calificaciones = [100.0, 100.0, 100.0], Promedio = 100.00
+PEdro: Calificaciones = [50.0, 70.0, 100.0], Promedio = 73.33
+Juan: Calificaciones = [100.0, 99.0, 99.0], Promedio = 99.33
+
+Estudiante con el mejor promedio: Lalo (100.00)
