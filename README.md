@@ -1,11 +1,11 @@
-#PracticaPython1
+##PracticaPython1
 Freddy John
 
-#Clonar git
+##Clonar git
 https://github.com/FreddyJohnn/PracticaPython1
 
-#Activar ambiente virtual
+##Activar ambiente virtual
 source PracticaPython1/bin/activate
 
-#Instalar requerimientos
+##Instalar requerimientos
 pip install -r requerimientosFJ.txt
